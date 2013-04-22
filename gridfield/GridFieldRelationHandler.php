@@ -87,7 +87,7 @@ abstract class GridFieldRelationHandler implements GridField_ColumnProvider, Gri
 					'GridField_FormAction',
 					$gridField,
 					'relationhandler-togglerel',
-					_t('GridFieldRelationHandler.TOGGLE_RELATION', 'Change relation status'),
+					_t('GridFieldRelationHandler.TOGGLE_RELATION', 'View all existing items'),
 					'toggleGridRelation',
 					null
 				)
